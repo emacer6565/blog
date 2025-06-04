@@ -1,0 +1,7 @@
+
+baseURL = "https://emacer6565.github.io/blog/"
+languageCode = "ja"
+title = "My Blog"
+theme = "ananke"
+# ↓ Hugo の出力先を docs/ フォルダにする設定（“プロジェクトページ”方式）
+publishDir = "docs"
