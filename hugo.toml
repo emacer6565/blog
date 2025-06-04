@@ -1,5 +1,0 @@
-baseURL = 'https://emacer6565.github.io/blog/'
-languageCode = 'ja'
-title = 'My Blog'
-theme = "ananke"
-publishDir = "docs"
